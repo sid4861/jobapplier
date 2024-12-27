@@ -91,7 +91,7 @@ export default function Page() {
             Effortless Job Applications in Three Simple Steps
           </p>
 
-          <div className="grid sm:grid-cols-2 md:grid-cols-3 sm:gap-20 px-44">
+          <div className="grid sm:grid-cols-2 md:grid-cols-3  gap-20 lg:px-44">
             {[
               {
                 number: "1",
@@ -214,7 +214,7 @@ export default function Page() {
             </h2>
           </div>
 
-          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 px-80">
+          <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 px-10 lg:px-80">
             {[
               {
                 testimonial:
